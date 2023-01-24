@@ -1,0 +1,66 @@
+﻿@model Employee
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Employee Details</h1>
+
+<div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="Name"></label>
+        <input class="form-control" asp-for="Name" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="Age"></label>
+        <input class="form-control" asp-for="Age" />
+        <span asp-validation-for="Age" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="Address"></label>
+        <input class="form-control" asp-for="Address" />
+        <span asp-validation-for="Address" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="Email"></label>
+        <input class="form-control" asp-for="Email" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="Salary"></label>
+        <input class="form-control" asp-for="Salary" />
+        <span asp-validation-for="Salary" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="PhoneNumber"></label>
+        <input class="form-control" asp-for="PhoneNumber" />
+        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+    </div>
+    @*<div class="form-group">
+        <label class="col-form-label" asp-for="Image"></label>
+        <input class="form-control" asp-for="Image" />
+        <span asp-validation-for="Image" class="text-danger"></span>
+        </div>*@
+    <div class="form-group">
+        <label class="col-form-label" asp-for="HireDate"></label>
+        <input class="form-control" asp-for="HireDate" />
+        <span asp-validation-for="HireDate" class="text-danger"></span>
+    </div>
+    @*<div class="form-group">
+        <label class="col-form-label" asp-for="DepartmentId">Department Name</label>
+        <select  asp-for="DepartmentId" asp-items="Departments">
+        <option>__Select Department__</option>
+        </select>
+        <span asp-validation-for="DepartmentId" class="text-danger"></span>
+        </div>*@
+    <div class="form-group">
+        <label class="col-form-label" asp-for="IsActive"></label>
+        <input class="form-control" asp-for="IsActive" />
+        <span asp-validation-for="IsActive" class="text-danger"></span>
+    </div>
+
+    <div>
+        <a asp-action="Edit" asp-controller="Employee" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a> |
+        <a asp-action="Index" class="btn btn-light">Back To List</a>
+    </div>
+</div>

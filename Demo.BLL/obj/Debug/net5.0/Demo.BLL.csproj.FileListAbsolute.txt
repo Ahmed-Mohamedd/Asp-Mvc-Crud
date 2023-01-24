@@ -1,0 +1,15 @@
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.BLL\bin\Debug\net5.0\ref\Demo.BLL.dll
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb

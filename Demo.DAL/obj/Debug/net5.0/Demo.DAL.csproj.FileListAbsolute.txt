@@ -1,0 +1,12 @@
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.DAL\bin\Debug\net5.0\ref\Demo.DAL.dll
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+E:\Back End\ROUTE\7-ASP MVC\AspMVCDemo\AspMvcDemo\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
